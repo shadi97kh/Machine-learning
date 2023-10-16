@@ -72,7 +72,7 @@ better_algorithm = "Decision Tree" if average_accuracy_tree > average_accuracy_r
 print(f"The better algorithm is: {better_algorithm}")
 
 # 7. Observations and Conclusions
-# This is more of a subjective section based on the results you've obtained. As an example:
+
 if better_algorithm == "Decision Tree":
     print("While Decision Tree performed better, further optimizations and testing on unseen data is essential.")
 else:
